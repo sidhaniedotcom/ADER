@@ -4,7 +4,7 @@
 """
 you can re run setup.py 
 if you have added some wrong value
-Da₹edevilkinng
+SIDHANIE
 """
 re="\033[1;31m"
 gr="\033[1;32m"
@@ -16,13 +16,19 @@ import time
 def banner():
 	os.system('clear')
 	print(f"""
-	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
-	{re}╚═╗{cy}├┤  │ │ │├─┘
-	{re}╚═╝{cy}└─┘ ┴ └─┘┴
+	             {re}╔═╗{cy}┌─┐┌┬┐┬ ┬{re}┌─┐
+	{re}======== {re}╚═╗{cy}├┤  │ │ │{re}├─┘ {re}========
+	             {re}╚═╝{cy}└─┘ ┴ └─┘{re}┴
 	
-	Created By Sidhanie
-	
-	THIS IS 1ST INSTANCE
+	{re}Created By [SIDHANIE](https://appsidhanie.my.id)
+	Telegram  : [SIDHANIE](https://t.me/termuxsidhanie)
+        Facebook  : [SIDHANIE](https://fb.me/sidhaniedotcom)
+        Instagram : [SIDHANIE](https://instagram.com/sidhaniedotcom)
+        Website   : [SIDHANIE](https://appsidhanie.my.id)
+        Youtube   : [SIDHANIE](https://youtube.com/c/sidhaniedotcom)
+        Github    : [SIDHANIE](https://github.com/sidhaniedotcom)
+
+        THIS IS 1ST INSTANCE
 	please do not change the descriptipn of code changing it won't make you a coder. 
 	Respect coders. Thank you.
 	
@@ -84,7 +90,7 @@ def merge_csv():
 def update_tool():
 	import requests as r
 	banner()
-	source = r.get("https://github.com/daredevilkinng/TeleAdder.git")
+	source = r.get("https://github.com/sidhaniedotcom/ADER")
 	if source.text == '3':
 		print(gr+'['+cy+'+'+gr+']'+cy+' alredy latest version')
 	else:
@@ -92,10 +98,10 @@ def update_tool():
 		os.system('rm *.py');time.sleep(1)
 		print(gr+'['+cy+'+'+gr+']'+cy+' getting latest files ...')
 		os.system("""
-			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/groupadd.py
-			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/scraper.py
-			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/setup.py
-			curl -s -O https://github.com/daredevilkinng/TeleAdder/blob/master/smsbot.py
+			curl -s -O https://github.com/sidhaniedotcom/ADER/blob/master/groupadd.py
+			curl -s -O https://github.com/sidhaniedotcom/ADER/blob/master/scraper.py
+			curl -s -O https://github.com/sidhaniedotcom/ADER/blob/master/setup.py
+			curl -s -O https://github.com/sidhaniedotcom/ADER/blob/master/smsbot.py
 			chmod 777 *.py
 			""");time.sleep(1)
 		print(gr+'\n['+cy+'+'+gr+']'+cy+' update compled.\n')

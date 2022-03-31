@@ -3,7 +3,7 @@
 Contact me to get the Pro Version of this TeleAdder :
 
 
- Telegram : https://t.me/daredevilkinng
+ Telegram : https://t.me/termuxsidhanie
  
  
 # Script to export members Telegram Groups and Channels to a CSV file and to add members to Telegram Groups or Channels.
@@ -49,7 +49,7 @@ Once you have your CSV prepared, just follow the instructions in the script.
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://youtu.be/DiXvVSzFo0g">
+  <a href="https://fb.me/c/sidhaniedotcom">
     <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
   </a>
 </p>
@@ -90,10 +90,10 @@ $ pkg install git -y
 $ pkg install -y git python
 
 
-$ git clone https://github.com/daredevilkinng/TeleAdder.git
+$ git clone https://https://github.com/sidhaniedotcom/ADER
 
 
-$ cd TeleAdder
+$ cd ADER
 
 
 $ ls

@@ -21,7 +21,7 @@ class main():
     {re} ║ {cy}├┤ │  ├┤ {re}║ ╦  ╚═╗{cy}│  ├┬┘├─┤├─┘├┤ ├┬┘
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
             
-     Recoded By Da₹edevilkinng
+     {re}Created By [SIDHANIE](https://appsidhanie.my.id)
      
      please do not change the descriptipn of code changing it won't make you a coder. 
      Respect coders. Thank you.

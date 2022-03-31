@@ -20,7 +20,7 @@ def banner():
 	{re}╚═╗{cy}├┤  │ │ │├─┘
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	
-	Recoded By Da₹edevilkinng
+	Created By Sidhanie
 	
 	THIS IS 1ST INSTANCE
 	please do not change the descriptipn of code changing it won't make you a coder. 

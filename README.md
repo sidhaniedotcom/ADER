@@ -73,7 +73,7 @@ NOTE : these commands are for android devices. All Android devices are supported
 
 
 PROCEDURE:-
-
+```
 
 $ apt update && upgrade
 
@@ -137,4 +137,4 @@ $ python3 groupadd.py members.csv
 Update Tool
 
 $ python3 setup.py -u
-
+```

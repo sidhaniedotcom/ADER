@@ -74,67 +74,33 @@ NOTE : these commands are for android devices. All Android devices are supported
 
 PROCEDURE:-
 ```
-
+Installation Package
 $ apt update && upgrade
-
-
 $ pkg install python
-
-
 $ pkg install python -y
-
-
 $ pkg install git -y
-
-
 $ pkg install -y git python
-
-
 $ git clone https://https://github.com/sidhaniedotcom/ADER
-
-
 $ cd ADER
-
-
 $ ls
 
-
-
 Install requierments
-
 $ python3 setup.py -i
 
-
-
 To setup configration file ( API ID, API HASH )
-
 $ python3 setup.py -c
-
 $ python3 smsbot.py members.csv
 
-
-
 To Genrate User Data
-
 $ python3 scraper.py
 
 ( members.csv is default if you changed name use it )
-
-
-
 Send Bulk sms To Scrpped data
-
 $ python3 smsbot.py members.csv
 
-
-
 Add users to your group
-
 $ python3 groupadd.py members.csv
 
-
-
 Update Tool
-
 $ python3 setup.py -u
 ```

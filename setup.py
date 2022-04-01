@@ -16,22 +16,22 @@ import time
 def banner():
 	os.system('clear')
 	print(f"""
-	             {re}╔═╗{cy}┌─┐┌┬┐┬ ┬{re}┌─┐
-	{re}======== {re}╚═╗{cy}├┤  │ │ │{re}├─┘ {re}========
-	             {re}╚═╝{cy}└─┘ ┴ └─┘{re}┴
-	
-	{re}Created By [SIDHANIE](https://appsidhanie.my.id)
-	Telegram  : [SIDHANIE](https://t.me/termuxsidhanie)
-        Facebook  : [SIDHANIE](https://fb.me/sidhaniedotcom)
-        Instagram : [SIDHANIE](https://instagram.com/sidhaniedotcom)
-        Website   : [SIDHANIE](https://appsidhanie.my.id)
-        Youtube   : [SIDHANIE](https://youtube.com/c/sidhaniedotcom)
-        Github    : [SIDHANIE](https://github.com/sidhaniedotcom)
-
-        THIS IS 1ST INSTANCE
-	please do not change the descriptipn of code changing it won't make you a coder. 
-	Respect coders. Thank you.
-	
+	          {re}╔═╗{cy}┌─┐┌┬┐┬ ┬{re}┌─┐
+================o {re}╚═╗{cy}├┤  │ │ │{re}├─┘ o================
+	          {re}╚═╝{cy}└─┘ ┴ └─┘{re}┴
+=============================================================
+                      CREATED BY SIDHANIE
+=============================================================	
+Website   : https://appsidhanie.my.id
+Telegram  : https://t.me/termuxsidhanie
+Github    : https://github.com/sidhaniedotcom
+Youtube   : https://youtube.com/c/sidhaniedotcom
+=============================================================
+=============================================================
+THIS IS 1ST INSTANCE
+please do not change the descriptipn of code changing it won't make you a coder. 
+Respect coders. Thank you.
+*************************************************************	
 	""")
 
 def requirements():
